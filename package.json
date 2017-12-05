@@ -1,6 +1,6 @@
 {
   "name": "risk-profile",
-  "version": "0.0.0",
+  "version": "6.3.0",
   "description": "Risk profile",
   "scripts": {
     "start": "node server.js"
